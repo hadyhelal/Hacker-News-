@@ -1,7 +1,6 @@
 # Hacker-News-
 
-A SwiftUI Hacker News reader which fetch news from hacker news website API and show it with via WebView 
-i used hacker news api 
+A SwiftUI Hacker News reader which fetch news from hacker news website API.
 
 What i used in the app:
 

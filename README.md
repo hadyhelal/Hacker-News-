@@ -1,12 +1,20 @@
 # Hacker-News-
 
-An SwiftUI Application which fetch news from hacker news website and show it in order via WebView 
+A SwiftUI Hacker News reader which fetch news from hacker news website API and show it with via WebView 
+i used hacker news api 
 
 What i used in the app:
 
-1- SwiftUI features 
-2- Observer Design pattern
-3- Networking (URLSession)
-4- Navigation View in SwiftUI
-5- SwiftUI List
-5- Worked With JSON Data format
+1- SwiftUI features.
+
+2- Advanced state management using Observer Design pattern.
+
+3- Networking (URLSession).
+
+4- Navigation View in SwiftUI.
+
+5- SwiftUI List and Identifiable protocol.
+
+6- Worked With JSON Data format.
+
+7- Incorporate UIKit component into SwiftUI using WebKit to display Web pages.
